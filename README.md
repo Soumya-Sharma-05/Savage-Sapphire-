@@ -94,4 +94,4 @@ You can use the provided Jupyter notebook `object_detect_main.ipynb` to run the 
 [Object detection video](https://drive.google.com/file/d/1KcppfcaQXAsLPkHiCEB6be3zh3Y2d2ab/view)
 
 ### Gender Detection Demo Video
-https://drive.google.com/file/d/1bHDZ-n8Mr3JZysEHs7GMEWTZj6i2TfjJ/view?usp=sharing
+[Gender Detection video](https://drive.google.com/file/d/1bHDZ-n8Mr3JZysEHs7GMEWTZj6i2TfjJ/view)
