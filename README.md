@@ -91,7 +91,7 @@ The YOLOv8 (You Only Look Once) model is an advanced deep learning model for obj
 You can use the provided Jupyter notebook `object_detect_main.ipynb` to run the object detection model. Ensure that you have the `object_detection_model.pkl` file in the correct path.
 
 ### Object Detection Demo Video
-https://drive.google.com/file/d/1KcppfcaQXAsLPkHiCEB6be3zh3Y2d2ab/view?usp=drive_link
+[Object detection video](https://drive.google.com/file/d/1KcppfcaQXAsLPkHiCEB6be3zh3Y2d2ab/view)
 
 ### Gender Detection Demo Video
 https://drive.google.com/file/d/1bHDZ-n8Mr3JZysEHs7GMEWTZj6i2TfjJ/view?usp=sharing
